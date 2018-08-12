@@ -78,6 +78,7 @@ html { overflow: hidden; }
   height: 100%;
   align-items: center;
   justify-content: center;
+  margin: 1%;
   animation: bounceInUp;
   animation-duration: 2s;
 }
