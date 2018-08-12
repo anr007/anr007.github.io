@@ -1,0 +1,25 @@
+{
+    "dir": "rtl",
+    "lang": "so",
+    "name": "Red",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://anr007.ml/",
+    "short_name": "Red",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "32x32"
+        }
+    ]
+}
